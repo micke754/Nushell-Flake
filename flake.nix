@@ -32,11 +32,6 @@
         nushellPlugins.polars
         nushellPlugins.skim
 
-
-
-
-
-
       ];
 
     };
