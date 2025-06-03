@@ -24,7 +24,7 @@
 
         # languages
         nushell
-        starship
+        # starship
         nufmt
 
         # Plugins
