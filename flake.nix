@@ -18,7 +18,7 @@
 
     packages.${system}.default = pkgs.buildEnv {
 
-      name = "global-packages";
+      name = "nushell-flake";
 
       paths = with pkgs; [
 
